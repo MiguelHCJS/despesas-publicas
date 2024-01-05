@@ -1,4 +1,4 @@
-﻿![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 # Portal da Transparência
 
@@ -82,6 +82,7 @@ pip install matplotlib
 pip install requests
 pip install sqlalchemy
 pip install python-dotenv
+pip install openpyxl
 ```
 
 **[Documentação da API](https://api.portaldatransparencia.gov.br/swagger-ui/index.html#/)**
